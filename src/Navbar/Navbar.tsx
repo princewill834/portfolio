@@ -33,28 +33,28 @@ function Navbar() {
         >
           <ul className="navbar-nav">
             <li className="nav-item mx-3">
-              <HashLink smooth to="/#" className="nav-link">
+              <HashLink smooth to="/#" className="nav-link " style={{color : "#333333"}} >
                 Home
               </HashLink>
             </li>
             <li className="nav-item mx-3">
-              <HashLink smooth to="/#about" className="nav-link">
+              <HashLink smooth to="/#about" className="nav-link"  style={{color : "#333333"}}>
                 About
               </HashLink>
             </li>
             <li className="nav-item mx-3">
-              <HashLink smooth to="/#services" className="nav-link">
+              <HashLink smooth to="/#services" className="nav-link" style={{color : "#333333"}}>
                 Services
               </HashLink>
             </li>
 
             <li className="nav-item mx-3">
-              <HashLink smooth to="/#projects" className="nav-link">
+              <HashLink smooth to="/#projects" className="nav-link" style={{color : "#333333"}}>
                 Projects
               </HashLink>
             </li>
             <li className="nav-item mx-3">
-              <HashLink smooth to="/#contact" className="nav-link">
+              <HashLink smooth to="/#contact" className="nav-link" style={{color : "#333333"}}>
                 Contact
               </HashLink>
             </li>

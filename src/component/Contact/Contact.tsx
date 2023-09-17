@@ -93,12 +93,12 @@ export default function Contact() {
             
               <span>
                 <a href="https://twitter.com/Kelz_Princewill">
-                  <BsTwitter color="#fff" size="35px" />
+                  <BsTwitter color="#467bee" size="35px" />
                 </a>
               </span>
               <span>
                 <a href="https://www.linkedin.com/in/kelechi-ekwuluonu-083b63239/">
-                  <BsLinkedin color="#fff" size="35px" />
+                  <BsLinkedin color="#467bee" size="35px" />
                 </a>
               </span>
             </div>
